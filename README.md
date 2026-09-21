@@ -1,1 +1,1 @@
-Branded entry point: hive.hivecommons.dev → the hub (currently hive.kubestellar.io). Flips to the real hub at the K-phase cutover.
+Legacy entry point published at hivecommons.dev/hive-redirect/. Redirects (and declares `rel=canonical`) to the hub at hive.hivecommons.dev. The K-phase cutover is complete; hive.kubestellar.io itself now 301s to hive.hivecommons.dev.
